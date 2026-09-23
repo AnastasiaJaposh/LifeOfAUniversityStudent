@@ -10,7 +10,7 @@ what happened the next day, as well as, a small paragraph analyzing the choices 
 After the ending screen, you can press ENTER to see your stats 
 and after that the playthrough is finished.</p>
 
-<h2>Conrolls</h2>
+<h2>Conrols</h2>
 walking around: arrow keys<br>
 navigating through text: ENTER<br>
 interacting: E<br>
